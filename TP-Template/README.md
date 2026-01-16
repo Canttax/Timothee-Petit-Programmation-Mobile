@@ -91,7 +91,7 @@ TP[Number]-[name]/
 
 ## Author
 
-Timothee Petit
+Timothée Petit
 
 ## Date
 

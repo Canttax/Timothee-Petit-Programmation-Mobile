@@ -39,7 +39,7 @@ This repository includes projects using various mobile development technologies:
 
 ## Author
 
-Timothee Petit
+Timothée Petit
 
 ## License
 
