@@ -1,0 +1,106 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+*.log
+*.tmp
+*.swp
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.sublime-*
+.project
+.classpath
+.settings/
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+.gradle/
+build/
+local.properties
+*.jks
+*.keystore
+captures/
+.externalNativeBuild
+.cxx
+
+# iOS
+*.ipa
+*.dSYM.zip
+*.dSYM
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+Pods/
+*.moved-aside
+*.hmap
+*.ipa
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+.expo/
+.expo-shared/
+dist/
+web-build/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+pubspec.lock
+
+# Kotlin
+*.kotlin_module
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Build artifacts
+*.o
+*.so
+*.a
+*.exe
+*.dll
+*.dylib
+*.out
+*.app
