@@ -18,7 +18,8 @@ dependencies:
   # State Management
   provider: ^6.1.2
 
-  # UI
+  # HTTP Client
+  dio: ^5.4.0  # UI
   flutter_svg: 2.2.3
 
 dev_dependencies:
