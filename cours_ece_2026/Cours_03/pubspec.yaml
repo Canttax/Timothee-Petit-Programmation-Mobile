@@ -15,6 +15,9 @@ dependencies:
     sdk: flutter
   intl: any
 
+  # State Management
+  provider: ^6.1.2
+
   # UI
   flutter_svg: 2.2.3
 
